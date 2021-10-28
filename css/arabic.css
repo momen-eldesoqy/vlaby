@@ -1,0 +1,383 @@
+body, .about-page, .dashboard-page, .curricilm-page, .leader-page, .payment-page, .school-dashboard-page
+, .school-classes-page {
+  direction: rtl;
+  text-align: right !important; }
+  body header nav ul li.mode a::after, .about-page header nav ul li.mode a::after, .dashboard-page header nav ul li.mode a::after, .curricilm-page header nav ul li.mode a::after, .leader-page header nav ul li.mode a::after, .payment-page header nav ul li.mode a::after, .school-dashboard-page
+  header nav ul li.mode a::after, .school-classes-page header nav ul li.mode a::after {
+    left: 37%; }
+  body header nav.dash-nav .navbar-brand img, .about-page header nav.dash-nav .navbar-brand img, .dashboard-page header nav.dash-nav .navbar-brand img, .curricilm-page header nav.dash-nav .navbar-brand img, .leader-page header nav.dash-nav .navbar-brand img, .payment-page header nav.dash-nav .navbar-brand img, .school-dashboard-page
+  header nav.dash-nav .navbar-brand img, .school-classes-page header nav.dash-nav .navbar-brand img {
+    margin-right: 0;
+    margin-left: 1rem; }
+  body header nav.dash-nav .navright .prof img, .about-page header nav.dash-nav .navright .prof img, .dashboard-page header nav.dash-nav .navright .prof img, .curricilm-page header nav.dash-nav .navright .prof img, .leader-page header nav.dash-nav .navright .prof img, .payment-page header nav.dash-nav .navright .prof img, .school-dashboard-page
+  header nav.dash-nav .navright .prof img, .school-classes-page header nav.dash-nav .navright .prof img {
+    margin-left: 1rem; }
+  body header nav.dash-nav .navright .mode a::after, .about-page header nav.dash-nav .navright .mode a::after, .dashboard-page header nav.dash-nav .navright .mode a::after, .curricilm-page header nav.dash-nav .navright .mode a::after, .leader-page header nav.dash-nav .navright .mode a::after, .payment-page header nav.dash-nav .navright .mode a::after, .school-dashboard-page
+  header nav.dash-nav .navright .mode a::after, .school-classes-page header nav.dash-nav .navright .mode a::after {
+    left: auto;
+    right: -22%; }
+  body header nav.dash-nav .navright .lang, .about-page header nav.dash-nav .navright .lang, .dashboard-page header nav.dash-nav .navright .lang, .curricilm-page header nav.dash-nav .navright .lang, .leader-page header nav.dash-nav .navright .lang, .payment-page header nav.dash-nav .navright .lang, .school-dashboard-page
+  header nav.dash-nav .navright .lang, .school-classes-page header nav.dash-nav .navright .lang {
+    margin-right: 10px; }
+  body .nav-mob .inner .ux .mode, .about-page .nav-mob .inner .ux .mode, .dashboard-page .nav-mob .inner .ux .mode, .curricilm-page .nav-mob .inner .ux .mode, .leader-page .nav-mob .inner .ux .mode, .payment-page .nav-mob .inner .ux .mode, .school-dashboard-page
+  .nav-mob .inner .ux .mode, .school-classes-page .nav-mob .inner .ux .mode {
+    margin-right: 5px; }
+    body .nav-mob .inner .ux .mode a i.fa-sun, .about-page .nav-mob .inner .ux .mode a i.fa-sun, .dashboard-page .nav-mob .inner .ux .mode a i.fa-sun, .curricilm-page .nav-mob .inner .ux .mode a i.fa-sun, .leader-page .nav-mob .inner .ux .mode a i.fa-sun, .payment-page .nav-mob .inner .ux .mode a i.fa-sun, .school-dashboard-page
+    .nav-mob .inner .ux .mode a i.fa-sun, .school-classes-page .nav-mob .inner .ux .mode a i.fa-sun {
+      margin-left: 10px; }
+    body .nav-mob .inner .ux .mode a::after, .about-page .nav-mob .inner .ux .mode a::after, .dashboard-page .nav-mob .inner .ux .mode a::after, .curricilm-page .nav-mob .inner .ux .mode a::after, .leader-page .nav-mob .inner .ux .mode a::after, .payment-page .nav-mob .inner .ux .mode a::after, .school-dashboard-page
+    .nav-mob .inner .ux .mode a::after, .school-classes-page .nav-mob .inner .ux .mode a::after {
+      left: 47%; }
+  body .about .about-content, .about-page .about .about-content, .dashboard-page .about .about-content, .curricilm-page .about .about-content, .leader-page .about .about-content, .payment-page .about .about-content, .school-dashboard-page
+  .about .about-content, .school-classes-page .about .about-content {
+    text-align: right !important; }
+  body .clients, body .partners, .about-page .clients, .about-page .partners, .dashboard-page .clients, .dashboard-page .partners, .curricilm-page .clients, .curricilm-page .partners, .leader-page .clients, .leader-page .partners, .payment-page .clients, .payment-page .partners, .school-dashboard-page
+  .clients, .school-dashboard-page
+  .partners, .school-classes-page .clients, .school-classes-page .partners {
+    direction: initial; }
+    body .clients .client, body .partners .client, .about-page .clients .client, .about-page .partners .client, .dashboard-page .clients .client, .dashboard-page .partners .client, .curricilm-page .clients .client, .curricilm-page .partners .client, .leader-page .clients .client, .leader-page .partners .client, .payment-page .clients .client, .payment-page .partners .client, .school-dashboard-page
+    .clients .client, .school-dashboard-page
+    .partners .client, .school-classes-page .clients .client, .school-classes-page .partners .client {
+      text-align: right; }
+      body .clients .client .client-post, body .partners .client .client-post, .about-page .clients .client .client-post, .about-page .partners .client .client-post, .dashboard-page .clients .client .client-post, .dashboard-page .partners .client .client-post, .curricilm-page .clients .client .client-post, .curricilm-page .partners .client .client-post, .leader-page .clients .client .client-post, .leader-page .partners .client .client-post, .payment-page .clients .client .client-post, .payment-page .partners .client .client-post, .school-dashboard-page
+      .clients .client .client-post, .school-dashboard-page
+      .partners .client .client-post, .school-classes-page .clients .client .client-post, .school-classes-page .partners .client .client-post {
+        flex-flow: row; }
+  body .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .about-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .dashboard-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .curricilm-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .leader-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .payment-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .school-dashboard-page
+  .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .school-classes-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2) {
+    margin-left: 18%; }
+  body .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .about-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .dashboard-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .curricilm-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .leader-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .payment-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .school-dashboard-page
+  .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .school-classes-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3) {
+    margin-left: 22%; }
+  body .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .about-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .dashboard-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .curricilm-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .leader-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .payment-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .school-dashboard-page
+  .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .school-classes-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4) {
+    margin-left: 7%; }
+  body .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .about-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .dashboard-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .curricilm-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .leader-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .payment-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .school-dashboard-page
+  .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .school-classes-page .pricing-guide .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5) {
+    margin-left: -1%; }
+  body .pricing-guide .pricing .privilages p i, .about-page .pricing-guide .pricing .privilages p i, .dashboard-page .pricing-guide .pricing .privilages p i, .curricilm-page .pricing-guide .pricing .privilages p i, .leader-page .pricing-guide .pricing .privilages p i, .payment-page .pricing-guide .pricing .privilages p i, .school-dashboard-page
+  .pricing-guide .pricing .privilages p i, .school-classes-page .pricing-guide .pricing .privilages p i {
+    margin-left: 5px; }
+  body .about-content .contact-us .form-section, .about-page .about-content .contact-us .form-section, .dashboard-page .about-content .contact-us .form-section, .curricilm-page .about-content .contact-us .form-section, .leader-page .about-content .contact-us .form-section, .payment-page .about-content .contact-us .form-section, .school-dashboard-page
+  .about-content .contact-us .form-section, .school-classes-page .about-content .contact-us .form-section {
+    border-left: 1px solid #bbb5b5;
+    padding-left: 40px; }
+  body .about-content .contact-us .social-contact .container .row, .about-page .about-content .contact-us .social-contact .container .row, .dashboard-page .about-content .contact-us .social-contact .container .row, .curricilm-page .about-content .contact-us .social-contact .container .row, .leader-page .about-content .contact-us .social-contact .container .row, .payment-page .about-content .contact-us .social-contact .container .row, .school-dashboard-page
+  .about-content .contact-us .social-contact .container .row, .school-classes-page .about-content .contact-us .social-contact .container .row {
+    text-align: right !important; }
+  body .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .about-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .dashboard-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .curricilm-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .leader-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .payment-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .school-dashboard-page
+  .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2), .school-classes-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(2) {
+    margin-left: 18%; }
+  body .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .about-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .dashboard-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .curricilm-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .leader-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .payment-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .school-dashboard-page
+  .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3), .school-classes-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(3) {
+    margin-left: 22%; }
+  body .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .about-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .dashboard-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .curricilm-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .leader-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .payment-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .school-dashboard-page
+  .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4), .school-classes-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(4) {
+    margin-left: 7%; }
+  body .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .about-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .dashboard-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .curricilm-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .leader-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .payment-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .school-dashboard-page
+  .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5), .school-classes-page .about-content .pricing .pricing-content .pricing-school-content .range-box .ranges span:nth-child(5) {
+    margin-left: -1%; }
+  body .about-content .pricing .privilages p i, .about-page .about-content .pricing .privilages p i, .dashboard-page .about-content .pricing .privilages p i, .curricilm-page .about-content .pricing .privilages p i, .leader-page .about-content .pricing .privilages p i, .payment-page .about-content .pricing .privilages p i, .school-dashboard-page
+  .about-content .pricing .privilages p i, .school-classes-page .about-content .pricing .privilages p i {
+    margin-left: 5px; }
+  body .signup .form .sign-body .student-sign, body .signup .form .sign-body .parent-sign, body .signup .form .sign-body .teacher-sign, body .signup .form .sign-body .school-sign, .about-page .signup .form .sign-body .student-sign, .about-page .signup .form .sign-body .parent-sign, .about-page .signup .form .sign-body .teacher-sign, .about-page .signup .form .sign-body .school-sign, .dashboard-page .signup .form .sign-body .student-sign, .dashboard-page .signup .form .sign-body .parent-sign, .dashboard-page .signup .form .sign-body .teacher-sign, .dashboard-page .signup .form .sign-body .school-sign, .curricilm-page .signup .form .sign-body .student-sign, .curricilm-page .signup .form .sign-body .parent-sign, .curricilm-page .signup .form .sign-body .teacher-sign, .curricilm-page .signup .form .sign-body .school-sign, .leader-page .signup .form .sign-body .student-sign, .leader-page .signup .form .sign-body .parent-sign, .leader-page .signup .form .sign-body .teacher-sign, .leader-page .signup .form .sign-body .school-sign, .payment-page .signup .form .sign-body .student-sign, .payment-page .signup .form .sign-body .parent-sign, .payment-page .signup .form .sign-body .teacher-sign, .payment-page .signup .form .sign-body .school-sign, .school-dashboard-page
+  .signup .form .sign-body .student-sign, .school-dashboard-page
+  .signup .form .sign-body .parent-sign, .school-dashboard-page
+  .signup .form .sign-body .teacher-sign, .school-dashboard-page
+  .signup .form .sign-body .school-sign, .school-classes-page .signup .form .sign-body .student-sign, .school-classes-page .signup .form .sign-body .parent-sign, .school-classes-page .signup .form .sign-body .teacher-sign, .school-classes-page .signup .form .sign-body .school-sign {
+    text-align: right !important; }
+  body .signup .form .sign-body .parent-sign .row, .about-page .signup .form .sign-body .parent-sign .row, .dashboard-page .signup .form .sign-body .parent-sign .row, .curricilm-page .signup .form .sign-body .parent-sign .row, .leader-page .signup .form .sign-body .parent-sign .row, .payment-page .signup .form .sign-body .parent-sign .row, .school-dashboard-page
+  .signup .form .sign-body .parent-sign .row, .school-classes-page .signup .form .sign-body .parent-sign .row {
+    text-align: right; }
+  body .signup .form .sign-body .parent-sign label, body .signup .form .sign-body .parent-sign h3, .about-page .signup .form .sign-body .parent-sign label, .about-page .signup .form .sign-body .parent-sign h3, .dashboard-page .signup .form .sign-body .parent-sign label, .dashboard-page .signup .form .sign-body .parent-sign h3, .curricilm-page .signup .form .sign-body .parent-sign label, .curricilm-page .signup .form .sign-body .parent-sign h3, .leader-page .signup .form .sign-body .parent-sign label, .leader-page .signup .form .sign-body .parent-sign h3, .payment-page .signup .form .sign-body .parent-sign label, .payment-page .signup .form .sign-body .parent-sign h3, .school-dashboard-page
+  .signup .form .sign-body .parent-sign label, .school-dashboard-page
+  .signup .form .sign-body .parent-sign h3, .school-classes-page .signup .form .sign-body .parent-sign label, .school-classes-page .signup .form .sign-body .parent-sign h3 {
+    text-align: right; }
+  body .login .form .social-login, .about-page .login .form .social-login, .dashboard-page .login .form .social-login, .curricilm-page .login .form .social-login, .leader-page .login .form .social-login, .payment-page .login .form .social-login, .school-dashboard-page
+  .login .form .social-login, .school-classes-page .login .form .social-login {
+    text-align: right; }
+  body .login .form .form-body, .about-page .login .form .form-body, .dashboard-page .login .form .form-body, .curricilm-page .login .form .form-body, .leader-page .login .form .form-body, .payment-page .login .form .form-body, .school-dashboard-page
+  .login .form .form-body, .school-classes-page .login .form .form-body {
+    text-align: right; }
+  body .reset-pass .form p, .about-page .reset-pass .form p, .dashboard-page .reset-pass .form p, .curricilm-page .reset-pass .form p, .leader-page .reset-pass .form p, .payment-page .reset-pass .form p, .school-dashboard-page
+  .reset-pass .form p, .school-classes-page .reset-pass .form p {
+    text-align: right; }
+  body .lesson .main-content .lesson-stud .header-lesson ul li, .about-page .lesson .main-content .lesson-stud .header-lesson ul li, .dashboard-page .lesson .main-content .lesson-stud .header-lesson ul li, .curricilm-page .lesson .main-content .lesson-stud .header-lesson ul li, .leader-page .lesson .main-content .lesson-stud .header-lesson ul li, .payment-page .lesson .main-content .lesson-stud .header-lesson ul li, .school-dashboard-page
+  .lesson .main-content .lesson-stud .header-lesson ul li, .school-classes-page .lesson .main-content .lesson-stud .header-lesson ul li {
+    margin-right: 3rem; }
+  body .lesson .main-content .lesson-stud .header-lesson ul span, .about-page .lesson .main-content .lesson-stud .header-lesson ul span, .dashboard-page .lesson .main-content .lesson-stud .header-lesson ul span, .curricilm-page .lesson .main-content .lesson-stud .header-lesson ul span, .leader-page .lesson .main-content .lesson-stud .header-lesson ul span, .payment-page .lesson .main-content .lesson-stud .header-lesson ul span, .school-dashboard-page
+  .lesson .main-content .lesson-stud .header-lesson ul span, .school-classes-page .lesson .main-content .lesson-stud .header-lesson ul span {
+    margin-right: 2rem; }
+  body .parent-dashboard, body .spec-data, body .parent-curriculm, body .parent-leaderboard, body .parent-payment, body .semester-section, body .parent-checkout
+  , body .parent-settings, body .school-dashboard, body .classes-content, body .new-class, body .teacher, body .students, body .payment
+  , body .school-settings, .about-page .parent-dashboard, .about-page .spec-data, .about-page .parent-curriculm, .about-page .parent-leaderboard, .about-page .parent-payment, .about-page .semester-section, .about-page .parent-checkout
+  , .about-page .parent-settings, .about-page .school-dashboard, .about-page .classes-content, .about-page .new-class, .about-page .teacher, .about-page .students, .about-page .payment
+  , .about-page .school-settings, .dashboard-page .parent-dashboard, .dashboard-page .spec-data, .dashboard-page .parent-curriculm, .dashboard-page .parent-leaderboard, .dashboard-page .parent-payment, .dashboard-page .semester-section, .dashboard-page .parent-checkout
+  , .dashboard-page .parent-settings, .dashboard-page .school-dashboard, .dashboard-page .classes-content, .dashboard-page .new-class, .dashboard-page .teacher, .dashboard-page .students, .dashboard-page .payment
+  , .dashboard-page .school-settings, .curricilm-page .parent-dashboard, .curricilm-page .spec-data, .curricilm-page .parent-curriculm, .curricilm-page .parent-leaderboard, .curricilm-page .parent-payment, .curricilm-page .semester-section, .curricilm-page .parent-checkout
+  , .curricilm-page .parent-settings, .curricilm-page .school-dashboard, .curricilm-page .classes-content, .curricilm-page .new-class, .curricilm-page .teacher, .curricilm-page .students, .curricilm-page .payment
+  , .curricilm-page .school-settings, .leader-page .parent-dashboard, .leader-page .spec-data, .leader-page .parent-curriculm, .leader-page .parent-leaderboard, .leader-page .parent-payment, .leader-page .semester-section, .leader-page .parent-checkout
+  , .leader-page .parent-settings, .leader-page .school-dashboard, .leader-page .classes-content, .leader-page .new-class, .leader-page .teacher, .leader-page .students, .leader-page .payment
+  , .leader-page .school-settings, .payment-page .parent-dashboard, .payment-page .spec-data, .payment-page .parent-curriculm, .payment-page .parent-leaderboard, .payment-page .parent-payment, .payment-page .semester-section, .payment-page .parent-checkout
+  , .payment-page .parent-settings, .payment-page .school-dashboard, .payment-page .classes-content, .payment-page .new-class, .payment-page .teacher, .payment-page .students, .payment-page .payment
+  , .payment-page .school-settings, .school-dashboard-page
+  .parent-dashboard, .school-dashboard-page
+  .spec-data, .school-dashboard-page
+  .parent-curriculm, .school-dashboard-page
+  .parent-leaderboard, .school-dashboard-page
+  .parent-payment, .school-dashboard-page
+  .semester-section, .school-dashboard-page
+  .parent-checkout
+  , .school-dashboard-page
+  .parent-settings, .school-dashboard-page
+  .school-dashboard, .school-dashboard-page
+  .classes-content, .school-dashboard-page
+  .new-class, .school-dashboard-page
+  .teacher, .school-dashboard-page
+  .students, .school-dashboard-page
+  .payment
+  , .school-dashboard-page
+  .school-settings, .school-classes-page .parent-dashboard, .school-classes-page .spec-data, .school-classes-page .parent-curriculm, .school-classes-page .parent-leaderboard, .school-classes-page .parent-payment, .school-classes-page .semester-section, .school-classes-page .parent-checkout
+  , .school-classes-page .parent-settings, .school-classes-page .school-dashboard, .school-classes-page .classes-content, .school-classes-page .new-class, .school-classes-page .teacher, .school-classes-page .students, .school-classes-page .payment
+  , .school-classes-page .school-settings {
+    margin-left: 0;
+    margin-right: 308px; }
+  body .sidebar, .about-page .sidebar, .dashboard-page .sidebar, .curricilm-page .sidebar, .leader-page .sidebar, .payment-page .sidebar, .school-dashboard-page
+  .sidebar, .school-classes-page .sidebar {
+    right: 0; }
+    body .sidebar ul, .about-page .sidebar ul, .dashboard-page .sidebar ul, .curricilm-page .sidebar ul, .leader-page .sidebar ul, .payment-page .sidebar ul, .school-dashboard-page
+    .sidebar ul, .school-classes-page .sidebar ul {
+      margin-right: 0; }
+      body .sidebar ul li a h3, .about-page .sidebar ul li a h3, .dashboard-page .sidebar ul li a h3, .curricilm-page .sidebar ul li a h3, .leader-page .sidebar ul li a h3, .payment-page .sidebar ul li a h3, .school-dashboard-page
+      .sidebar ul li a h3, .school-classes-page .sidebar ul li a h3 {
+        margin-left: 0;
+        margin-right: 10px; }
+  body .spec-data .exp-container .exp-prog span:last-child, .about-page .spec-data .exp-container .exp-prog span:last-child, .dashboard-page .spec-data .exp-container .exp-prog span:last-child, .curricilm-page .spec-data .exp-container .exp-prog span:last-child, .leader-page .spec-data .exp-container .exp-prog span:last-child, .payment-page .spec-data .exp-container .exp-prog span:last-child, .school-dashboard-page
+  .spec-data .exp-container .exp-prog span:last-child, .school-classes-page .spec-data .exp-container .exp-prog span:last-child {
+    margin-left: 0;
+    margin-right: 20px; }
+  body .parent-curriculm .right-side, .about-page .parent-curriculm .right-side, .dashboard-page .parent-curriculm .right-side, .curricilm-page .parent-curriculm .right-side, .leader-page .parent-curriculm .right-side, .payment-page .parent-curriculm .right-side, .school-dashboard-page
+  .parent-curriculm .right-side, .school-classes-page .parent-curriculm .right-side {
+    right: auto;
+    left: 0; }
+  body .parent-checkout .payment-details, .about-page .parent-checkout .payment-details, .dashboard-page .parent-checkout .payment-details, .curricilm-page .parent-checkout .payment-details, .leader-page .parent-checkout .payment-details, .payment-page .parent-checkout .payment-details, .school-dashboard-page
+  .parent-checkout .payment-details, .school-classes-page .parent-checkout .payment-details {
+    text-align: right; }
+    body .parent-checkout .payment-details form, .about-page .parent-checkout .payment-details form, .dashboard-page .parent-checkout .payment-details form, .curricilm-page .parent-checkout .payment-details form, .leader-page .parent-checkout .payment-details form, .payment-page .parent-checkout .payment-details form, .school-dashboard-page
+    .parent-checkout .payment-details form, .school-classes-page .parent-checkout .payment-details form {
+      text-align: right; }
+  body .school-dashboard .current-plan .content-box .right-content p, .about-page .school-dashboard .current-plan .content-box .right-content p, .dashboard-page .school-dashboard .current-plan .content-box .right-content p, .curricilm-page .school-dashboard .current-plan .content-box .right-content p, .leader-page .school-dashboard .current-plan .content-box .right-content p, .payment-page .school-dashboard .current-plan .content-box .right-content p, .school-dashboard-page
+  .school-dashboard .current-plan .content-box .right-content p, .school-classes-page .school-dashboard .current-plan .content-box .right-content p {
+    margin-left: 0;
+    margin-right: 53px; }
+  body .school-dashboard .current-plan .content-box .left-content, .about-page .school-dashboard .current-plan .content-box .left-content, .dashboard-page .school-dashboard .current-plan .content-box .left-content, .curricilm-page .school-dashboard .current-plan .content-box .left-content, .leader-page .school-dashboard .current-plan .content-box .left-content, .payment-page .school-dashboard .current-plan .content-box .left-content, .school-dashboard-page
+  .school-dashboard .current-plan .content-box .left-content, .school-classes-page .school-dashboard .current-plan .content-box .left-content {
+    border-right: none;
+    border-left: 1px solid #bbb5b5; }
+  body .classes-content .edit-classes .inner .class .check-container .form-check, .about-page .classes-content .edit-classes .inner .class .check-container .form-check, .dashboard-page .classes-content .edit-classes .inner .class .check-container .form-check, .curricilm-page .classes-content .edit-classes .inner .class .check-container .form-check, .leader-page .classes-content .edit-classes .inner .class .check-container .form-check, .payment-page .classes-content .edit-classes .inner .class .check-container .form-check, .school-dashboard-page
+  .classes-content .edit-classes .inner .class .check-container .form-check, .school-classes-page .classes-content .edit-classes .inner .class .check-container .form-check {
+    padding-left: 0; }
+  body .classes-content .edit-classes .inner .check-all .btn-hold, .about-page .classes-content .edit-classes .inner .check-all .btn-hold, .dashboard-page .classes-content .edit-classes .inner .check-all .btn-hold, .curricilm-page .classes-content .edit-classes .inner .check-all .btn-hold, .leader-page .classes-content .edit-classes .inner .check-all .btn-hold, .payment-page .classes-content .edit-classes .inner .check-all .btn-hold, .school-dashboard-page
+  .classes-content .edit-classes .inner .check-all .btn-hold, .school-classes-page .classes-content .edit-classes .inner .check-all .btn-hold {
+    text-align: left; }
+  body .classes-content .edit-classes .inner .check-all .form-check .form-check-input, .about-page .classes-content .edit-classes .inner .check-all .form-check .form-check-input, .dashboard-page .classes-content .edit-classes .inner .check-all .form-check .form-check-input, .curricilm-page .classes-content .edit-classes .inner .check-all .form-check .form-check-input, .leader-page .classes-content .edit-classes .inner .check-all .form-check .form-check-input, .payment-page .classes-content .edit-classes .inner .check-all .form-check .form-check-input, .school-dashboard-page
+  .classes-content .edit-classes .inner .check-all .form-check .form-check-input, .school-classes-page .classes-content .edit-classes .inner .check-all .form-check .form-check-input {
+    float: none; }
+  body .teacher .all-teachers .accordion .accordion-item .accordion-button img, .about-page .teacher .all-teachers .accordion .accordion-item .accordion-button img, .dashboard-page .teacher .all-teachers .accordion .accordion-item .accordion-button img, .curricilm-page .teacher .all-teachers .accordion .accordion-item .accordion-button img, .leader-page .teacher .all-teachers .accordion .accordion-item .accordion-button img, .payment-page .teacher .all-teachers .accordion .accordion-item .accordion-button img, .school-dashboard-page
+  .teacher .all-teachers .accordion .accordion-item .accordion-button img, .school-classes-page .teacher .all-teachers .accordion .accordion-item .accordion-button img {
+    margin-right: 0;
+    margin-left: 10px; }
+  body .assign-to-class-popup .inner .class .check-container .form-check, body .add-class-popup .inner .class .check-container .form-check, .about-page .assign-to-class-popup .inner .class .check-container .form-check, .about-page .add-class-popup .inner .class .check-container .form-check, .dashboard-page .assign-to-class-popup .inner .class .check-container .form-check, .dashboard-page .add-class-popup .inner .class .check-container .form-check, .curricilm-page .assign-to-class-popup .inner .class .check-container .form-check, .curricilm-page .add-class-popup .inner .class .check-container .form-check, .leader-page .assign-to-class-popup .inner .class .check-container .form-check, .leader-page .add-class-popup .inner .class .check-container .form-check, .payment-page .assign-to-class-popup .inner .class .check-container .form-check, .payment-page .add-class-popup .inner .class .check-container .form-check, .school-dashboard-page
+  .assign-to-class-popup .inner .class .check-container .form-check, .school-dashboard-page
+  .add-class-popup .inner .class .check-container .form-check, .school-classes-page .assign-to-class-popup .inner .class .check-container .form-check, .school-classes-page .add-class-popup .inner .class .check-container .form-check {
+    padding-left: 0; }
+  body .assign-to-class-popup .inner .check-all .btn-hold, body .add-class-popup .inner .check-all .btn-hold, .about-page .assign-to-class-popup .inner .check-all .btn-hold, .about-page .add-class-popup .inner .check-all .btn-hold, .dashboard-page .assign-to-class-popup .inner .check-all .btn-hold, .dashboard-page .add-class-popup .inner .check-all .btn-hold, .curricilm-page .assign-to-class-popup .inner .check-all .btn-hold, .curricilm-page .add-class-popup .inner .check-all .btn-hold, .leader-page .assign-to-class-popup .inner .check-all .btn-hold, .leader-page .add-class-popup .inner .check-all .btn-hold, .payment-page .assign-to-class-popup .inner .check-all .btn-hold, .payment-page .add-class-popup .inner .check-all .btn-hold, .school-dashboard-page
+  .assign-to-class-popup .inner .check-all .btn-hold, .school-dashboard-page
+  .add-class-popup .inner .check-all .btn-hold, .school-classes-page .assign-to-class-popup .inner .check-all .btn-hold, .school-classes-page .add-class-popup .inner .check-all .btn-hold {
+    text-align: left; }
+  body .assign-to-class-popup .inner .check-all .form-check .form-check-input, body .add-class-popup .inner .check-all .form-check .form-check-input, .about-page .assign-to-class-popup .inner .check-all .form-check .form-check-input, .about-page .add-class-popup .inner .check-all .form-check .form-check-input, .dashboard-page .assign-to-class-popup .inner .check-all .form-check .form-check-input, .dashboard-page .add-class-popup .inner .check-all .form-check .form-check-input, .curricilm-page .assign-to-class-popup .inner .check-all .form-check .form-check-input, .curricilm-page .add-class-popup .inner .check-all .form-check .form-check-input, .leader-page .assign-to-class-popup .inner .check-all .form-check .form-check-input, .leader-page .add-class-popup .inner .check-all .form-check .form-check-input, .payment-page .assign-to-class-popup .inner .check-all .form-check .form-check-input, .payment-page .add-class-popup .inner .check-all .form-check .form-check-input, .school-dashboard-page
+  .assign-to-class-popup .inner .check-all .form-check .form-check-input, .school-dashboard-page
+  .add-class-popup .inner .check-all .form-check .form-check-input, .school-classes-page .assign-to-class-popup .inner .check-all .form-check .form-check-input, .school-classes-page .add-class-popup .inner .check-all .form-check .form-check-input {
+    float: none; }
+  body .onclick-yes-popup .inner .form-check .form-check-input, .about-page .onclick-yes-popup .inner .form-check .form-check-input, .dashboard-page .onclick-yes-popup .inner .form-check .form-check-input, .curricilm-page .onclick-yes-popup .inner .form-check .form-check-input, .leader-page .onclick-yes-popup .inner .form-check .form-check-input, .payment-page .onclick-yes-popup .inner .form-check .form-check-input, .school-dashboard-page
+  .onclick-yes-popup .inner .form-check .form-check-input, .school-classes-page .onclick-yes-popup .inner .form-check .form-check-input {
+    float: none;
+    margin-left: 0; }
+  body .school-settings .setcont .my-profile .image-container i, .about-page .school-settings .setcont .my-profile .image-container i, .dashboard-page .school-settings .setcont .my-profile .image-container i, .curricilm-page .school-settings .setcont .my-profile .image-container i, .leader-page .school-settings .setcont .my-profile .image-container i, .payment-page .school-settings .setcont .my-profile .image-container i, .school-dashboard-page
+  .school-settings .setcont .my-profile .image-container i, .school-classes-page .school-settings .setcont .my-profile .image-container i {
+    left: auto;
+    right: 105px; }
+  body .std-dashboard, body .std-curr, body .std-leader, body .myclass, body .std-less, body .class-content, body .std-lesson, body .classroom, body .teacher-dash, body .class-info, body .teach-new, body .teach-curriculm, body .payment-dash, body .teach-leaderboard, .about-page .std-dashboard, .about-page .std-curr, .about-page .std-leader, .about-page .myclass, .about-page .std-less, .about-page .class-content, .about-page .std-lesson, .about-page .classroom, .about-page .teacher-dash, .about-page .class-info, .about-page .teach-new, .about-page .teach-curriculm, .about-page .payment-dash, .about-page .teach-leaderboard, .dashboard-page .std-dashboard, .dashboard-page .std-curr, .dashboard-page .std-leader, .dashboard-page .myclass, .dashboard-page .std-less, .dashboard-page .class-content, .dashboard-page .std-lesson, .dashboard-page .classroom, .dashboard-page .teacher-dash, .dashboard-page .class-info, .dashboard-page .teach-new, .dashboard-page .teach-curriculm, .dashboard-page .payment-dash, .dashboard-page .teach-leaderboard, .curricilm-page .std-dashboard, .curricilm-page .std-curr, .curricilm-page .std-leader, .curricilm-page .myclass, .curricilm-page .std-less, .curricilm-page .class-content, .curricilm-page .std-lesson, .curricilm-page .classroom, .curricilm-page .teacher-dash, .curricilm-page .class-info, .curricilm-page .teach-new, .curricilm-page .teach-curriculm, .curricilm-page .payment-dash, .curricilm-page .teach-leaderboard, .leader-page .std-dashboard, .leader-page .std-curr, .leader-page .std-leader, .leader-page .myclass, .leader-page .std-less, .leader-page .class-content, .leader-page .std-lesson, .leader-page .classroom, .leader-page .teacher-dash, .leader-page .class-info, .leader-page .teach-new, .leader-page .teach-curriculm, .leader-page .payment-dash, .leader-page .teach-leaderboard, .payment-page .std-dashboard, .payment-page .std-curr, .payment-page .std-leader, .payment-page .myclass, .payment-page .std-less, .payment-page .class-content, .payment-page .std-lesson, .payment-page .classroom, .payment-page .teacher-dash, .payment-page .class-info, .payment-page .teach-new, .payment-page .teach-curriculm, .payment-page .payment-dash, .payment-page .teach-leaderboard, .school-dashboard-page
+  .std-dashboard, .school-dashboard-page
+  .std-curr, .school-dashboard-page
+  .std-leader, .school-dashboard-page
+  .myclass, .school-dashboard-page
+  .std-less, .school-dashboard-page
+  .class-content, .school-dashboard-page
+  .std-lesson, .school-dashboard-page
+  .classroom, .school-dashboard-page
+  .teacher-dash, .school-dashboard-page
+  .class-info, .school-dashboard-page
+  .teach-new, .school-dashboard-page
+  .teach-curriculm, .school-dashboard-page
+  .payment-dash, .school-dashboard-page
+  .teach-leaderboard, .school-classes-page .std-dashboard, .school-classes-page .std-curr, .school-classes-page .std-leader, .school-classes-page .myclass, .school-classes-page .std-less, .school-classes-page .class-content, .school-classes-page .std-lesson, .school-classes-page .classroom, .school-classes-page .teacher-dash, .school-classes-page .class-info, .school-classes-page .teach-new, .school-classes-page .teach-curriculm, .school-classes-page .payment-dash, .school-classes-page .teach-leaderboard {
+    margin-left: 0;
+    margin-right: 220px; }
+  body .profile, body .std-setting, body .teach-settings, .about-page .profile, .about-page .std-setting, .about-page .teach-settings, .dashboard-page .profile, .dashboard-page .std-setting, .dashboard-page .teach-settings, .curricilm-page .profile, .curricilm-page .std-setting, .curricilm-page .teach-settings, .leader-page .profile, .leader-page .std-setting, .leader-page .teach-settings, .payment-page .profile, .payment-page .std-setting, .payment-page .teach-settings, .school-dashboard-page
+  .profile, .school-dashboard-page
+  .std-setting, .school-dashboard-page
+  .teach-settings, .school-classes-page .profile, .school-classes-page .std-setting, .school-classes-page .teach-settings {
+    margin-left: 0;
+    margin-right: 230px; }
+  body .sidebar-right, .about-page .sidebar-right, .dashboard-page .sidebar-right, .curricilm-page .sidebar-right, .leader-page .sidebar-right, .payment-page .sidebar-right, .school-dashboard-page
+  .sidebar-right, .school-classes-page .sidebar-right {
+    right: auto;
+    left: 0; }
+  body .profile .info-stud div.flex-column div, body .class-content .info-stud div.flex-column div, body .std-lesson .info-stud div.flex-column div, .about-page .profile .info-stud div.flex-column div, .about-page .class-content .info-stud div.flex-column div, .about-page .std-lesson .info-stud div.flex-column div, .dashboard-page .profile .info-stud div.flex-column div, .dashboard-page .class-content .info-stud div.flex-column div, .dashboard-page .std-lesson .info-stud div.flex-column div, .curricilm-page .profile .info-stud div.flex-column div, .curricilm-page .class-content .info-stud div.flex-column div, .curricilm-page .std-lesson .info-stud div.flex-column div, .leader-page .profile .info-stud div.flex-column div, .leader-page .class-content .info-stud div.flex-column div, .leader-page .std-lesson .info-stud div.flex-column div, .payment-page .profile .info-stud div.flex-column div, .payment-page .class-content .info-stud div.flex-column div, .payment-page .std-lesson .info-stud div.flex-column div, .school-dashboard-page
+  .profile .info-stud div.flex-column div, .school-dashboard-page
+  .class-content .info-stud div.flex-column div, .school-dashboard-page
+  .std-lesson .info-stud div.flex-column div, .school-classes-page .profile .info-stud div.flex-column div, .school-classes-page .class-content .info-stud div.flex-column div, .school-classes-page .std-lesson .info-stud div.flex-column div {
+    display: flex;
+    justify-content: flex-start; }
+    body .profile .info-stud div.flex-column div p, body .class-content .info-stud div.flex-column div p, body .std-lesson .info-stud div.flex-column div p, .about-page .profile .info-stud div.flex-column div p, .about-page .class-content .info-stud div.flex-column div p, .about-page .std-lesson .info-stud div.flex-column div p, .dashboard-page .profile .info-stud div.flex-column div p, .dashboard-page .class-content .info-stud div.flex-column div p, .dashboard-page .std-lesson .info-stud div.flex-column div p, .curricilm-page .profile .info-stud div.flex-column div p, .curricilm-page .class-content .info-stud div.flex-column div p, .curricilm-page .std-lesson .info-stud div.flex-column div p, .leader-page .profile .info-stud div.flex-column div p, .leader-page .class-content .info-stud div.flex-column div p, .leader-page .std-lesson .info-stud div.flex-column div p, .payment-page .profile .info-stud div.flex-column div p, .payment-page .class-content .info-stud div.flex-column div p, .payment-page .std-lesson .info-stud div.flex-column div p, .school-dashboard-page
+    .profile .info-stud div.flex-column div p, .school-dashboard-page
+    .class-content .info-stud div.flex-column div p, .school-dashboard-page
+    .std-lesson .info-stud div.flex-column div p, .school-classes-page .profile .info-stud div.flex-column div p, .school-classes-page .class-content .info-stud div.flex-column div p, .school-classes-page .std-lesson .info-stud div.flex-column div p {
+      margin-right: 0;
+      margin-left: 2rem; }
+  body .profile .header-lesson ul li, body .class-content .header-lesson ul li, body .std-lesson .header-lesson ul li, .about-page .profile .header-lesson ul li, .about-page .class-content .header-lesson ul li, .about-page .std-lesson .header-lesson ul li, .dashboard-page .profile .header-lesson ul li, .dashboard-page .class-content .header-lesson ul li, .dashboard-page .std-lesson .header-lesson ul li, .curricilm-page .profile .header-lesson ul li, .curricilm-page .class-content .header-lesson ul li, .curricilm-page .std-lesson .header-lesson ul li, .leader-page .profile .header-lesson ul li, .leader-page .class-content .header-lesson ul li, .leader-page .std-lesson .header-lesson ul li, .payment-page .profile .header-lesson ul li, .payment-page .class-content .header-lesson ul li, .payment-page .std-lesson .header-lesson ul li, .school-dashboard-page
+  .profile .header-lesson ul li, .school-dashboard-page
+  .class-content .header-lesson ul li, .school-dashboard-page
+  .std-lesson .header-lesson ul li, .school-classes-page .profile .header-lesson ul li, .school-classes-page .class-content .header-lesson ul li, .school-classes-page .std-lesson .header-lesson ul li {
+    margin-right: 15px; }
+  body .std-setting .setcont .my-profile form .edit-btn-cont .fa-edit, .about-page .std-setting .setcont .my-profile form .edit-btn-cont .fa-edit, .dashboard-page .std-setting .setcont .my-profile form .edit-btn-cont .fa-edit, .curricilm-page .std-setting .setcont .my-profile form .edit-btn-cont .fa-edit, .leader-page .std-setting .setcont .my-profile form .edit-btn-cont .fa-edit, .payment-page .std-setting .setcont .my-profile form .edit-btn-cont .fa-edit, .school-dashboard-page
+  .std-setting .setcont .my-profile form .edit-btn-cont .fa-edit, .school-classes-page .std-setting .setcont .my-profile form .edit-btn-cont .fa-edit {
+    right: auto;
+    left: 0; }
+  body .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card span.exp, .about-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card span.exp, .dashboard-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card span.exp, .curricilm-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card span.exp, .leader-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card span.exp, .payment-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card span.exp, .school-dashboard-page
+  .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card span.exp, .school-classes-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card span.exp {
+    right: auto;
+    left: 2%; }
+  body .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card .quiz-info, .about-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card .quiz-info, .dashboard-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card .quiz-info, .curricilm-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card .quiz-info, .leader-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card .quiz-info, .payment-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card .quiz-info, .school-dashboard-page
+  .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card .quiz-info, .school-classes-page .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card .quiz-info {
+    margin-right: 1rem; }
+  body .class-content .student-info .prof h4, .about-page .class-content .student-info .prof h4, .dashboard-page .class-content .student-info .prof h4, .curricilm-page .class-content .student-info .prof h4, .leader-page .class-content .student-info .prof h4, .payment-page .class-content .student-info .prof h4, .school-dashboard-page
+  .class-content .student-info .prof h4, .school-classes-page .class-content .student-info .prof h4 {
+    margin-left: 0;
+    margin-right: .5rem; }
+  body .class-content .class-up .class-body .teach-list .tech-post h4, .about-page .class-content .class-up .class-body .teach-list .tech-post h4, .dashboard-page .class-content .class-up .class-body .teach-list .tech-post h4, .curricilm-page .class-content .class-up .class-body .teach-list .tech-post h4, .leader-page .class-content .class-up .class-body .teach-list .tech-post h4, .payment-page .class-content .class-up .class-body .teach-list .tech-post h4, .school-dashboard-page
+  .class-content .class-up .class-body .teach-list .tech-post h4, .school-classes-page .class-content .class-up .class-body .teach-list .tech-post h4 {
+    margin-left: 0;
+    margin-right: 1.2rem; }
+  body .class-content .class-up .class-body .filter label, .about-page .class-content .class-up .class-body .filter label, .dashboard-page .class-content .class-up .class-body .filter label, .curricilm-page .class-content .class-up .class-body .filter label, .leader-page .class-content .class-up .class-body .filter label, .payment-page .class-content .class-up .class-body .filter label, .school-dashboard-page
+  .class-content .class-up .class-body .filter label, .school-classes-page .class-content .class-up .class-body .filter label {
+    margin-right: 0 !important;
+    margin-left: 1rem; }
+  body .lesson-expr .main-content .less-experment .experment-info span.exp, .about-page .lesson-expr .main-content .less-experment .experment-info span.exp, .dashboard-page .lesson-expr .main-content .less-experment .experment-info span.exp, .curricilm-page .lesson-expr .main-content .less-experment .experment-info span.exp, .leader-page .lesson-expr .main-content .less-experment .experment-info span.exp, .payment-page .lesson-expr .main-content .less-experment .experment-info span.exp, .school-dashboard-page
+  .lesson-expr .main-content .less-experment .experment-info span.exp, .school-classes-page .lesson-expr .main-content .less-experment .experment-info span.exp {
+    right: auto;
+    left: 2%; }
+  body .teacher-dash .main-content .dashteach .tech-nav .teach-point h4, .about-page .teacher-dash .main-content .dashteach .tech-nav .teach-point h4, .dashboard-page .teacher-dash .main-content .dashteach .tech-nav .teach-point h4, .curricilm-page .teacher-dash .main-content .dashteach .tech-nav .teach-point h4, .leader-page .teacher-dash .main-content .dashteach .tech-nav .teach-point h4, .payment-page .teacher-dash .main-content .dashteach .tech-nav .teach-point h4, .school-dashboard-page
+  .teacher-dash .main-content .dashteach .tech-nav .teach-point h4, .school-classes-page .teacher-dash .main-content .dashteach .tech-nav .teach-point h4 {
+    margin-left: 5px; }
+  body .school-classes-page .teach-new .add-teach .post-cont, .about-page .school-classes-page .teach-new .add-teach .post-cont, .dashboard-page .school-classes-page .teach-new .add-teach .post-cont, .curricilm-page .school-classes-page .teach-new .add-teach .post-cont, .leader-page .school-classes-page .teach-new .add-teach .post-cont, .payment-page .school-classes-page .teach-new .add-teach .post-cont, .school-dashboard-page
+  .school-classes-page .teach-new .add-teach .post-cont, .school-classes-page .school-classes-page .teach-new .add-teach .post-cont {
+    text-align: left; }
+  body .payment-dash .main-content .earn-point .next-btn-cont, .about-page .payment-dash .main-content .earn-point .next-btn-cont, .dashboard-page .payment-dash .main-content .earn-point .next-btn-cont, .curricilm-page .payment-dash .main-content .earn-point .next-btn-cont, .leader-page .payment-dash .main-content .earn-point .next-btn-cont, .payment-page .payment-dash .main-content .earn-point .next-btn-cont, .school-dashboard-page
+  .payment-dash .main-content .earn-point .next-btn-cont, .school-classes-page .payment-dash .main-content .earn-point .next-btn-cont {
+    text-align: left; }
+  body .complete-checkout .parent-checkout, .about-page .complete-checkout .parent-checkout, .dashboard-page .complete-checkout .parent-checkout, .curricilm-page .complete-checkout .parent-checkout, .leader-page .complete-checkout .parent-checkout, .payment-page .complete-checkout .parent-checkout, .school-dashboard-page
+  .complete-checkout .parent-checkout, .school-classes-page .complete-checkout .parent-checkout {
+    margin-right: 0; }
+
+@media (max-width: 991.98px) {
+  body .lesson .main-content .lesson-stud .header-lesson ul li, .dashboard-page .lesson .main-content .lesson-stud .header-lesson ul li, .curricilm-page .lesson .main-content .lesson-stud .header-lesson ul li, .leader-page .lesson .main-content .lesson-stud .header-lesson ul li, .payment-page .lesson .main-content .lesson-stud .header-lesson ul li, .school-dashboard-page
+  .lesson .main-content .lesson-stud .header-lesson ul li, .school-classes-page .lesson .main-content .lesson-stud .header-lesson ul li {
+    margin-right: 5px; }
+  body .lesson .main-content .lesson-stud .header-lesson ul span, .dashboard-page .lesson .main-content .lesson-stud .header-lesson ul span, .curricilm-page .lesson .main-content .lesson-stud .header-lesson ul span, .leader-page .lesson .main-content .lesson-stud .header-lesson ul span, .payment-page .lesson .main-content .lesson-stud .header-lesson ul span, .school-dashboard-page
+  .lesson .main-content .lesson-stud .header-lesson ul span, .school-classes-page .lesson .main-content .lesson-stud .header-lesson ul span {
+    margin-right: 0; }
+  body .parent-dashboard, body .spec-data, body .parent-curriculm, body .parent-leaderboard, body .parent-payment, body .semester-section, body .parent-checkout
+  , body .parent-settings, body .school-dashboard, body .classes-content, body .new-class, body .teacher, body .students, body .payment
+  , body .school-settings, body .std-dashboard, body .std-curr, body .std-leader, body .myclass, body .profile, body .std-setting
+  , body .std-less, body .class-content, body .std-lesson, body .classroom, body .teacher-dash, body .payment-checkout, body .complete-checkout, body .teach-settings, .dashboard-page .parent-dashboard, .dashboard-page .spec-data, .dashboard-page .parent-curriculm, .dashboard-page .parent-leaderboard, .dashboard-page .parent-payment, .dashboard-page .semester-section, .dashboard-page .parent-checkout
+  , .dashboard-page .parent-settings, .dashboard-page .school-dashboard, .dashboard-page .classes-content, .dashboard-page .new-class, .dashboard-page .teacher, .dashboard-page .students, .dashboard-page .payment
+  , .dashboard-page .school-settings, .dashboard-page .std-dashboard, .dashboard-page .std-curr, .dashboard-page .std-leader, .dashboard-page .myclass, .dashboard-page .profile, .dashboard-page .std-setting
+  , .dashboard-page .std-less, .dashboard-page .class-content, .dashboard-page .std-lesson, .dashboard-page .classroom, .dashboard-page .teacher-dash, .dashboard-page .payment-checkout, .dashboard-page .complete-checkout, .dashboard-page .teach-settings, .curricilm-page .parent-dashboard, .curricilm-page .spec-data, .curricilm-page .parent-curriculm, .curricilm-page .parent-leaderboard, .curricilm-page .parent-payment, .curricilm-page .semester-section, .curricilm-page .parent-checkout
+  , .curricilm-page .parent-settings, .curricilm-page .school-dashboard, .curricilm-page .classes-content, .curricilm-page .new-class, .curricilm-page .teacher, .curricilm-page .students, .curricilm-page .payment
+  , .curricilm-page .school-settings, .curricilm-page .std-dashboard, .curricilm-page .std-curr, .curricilm-page .std-leader, .curricilm-page .myclass, .curricilm-page .profile, .curricilm-page .std-setting
+  , .curricilm-page .std-less, .curricilm-page .class-content, .curricilm-page .std-lesson, .curricilm-page .classroom, .curricilm-page .teacher-dash, .curricilm-page .payment-checkout, .curricilm-page .complete-checkout, .curricilm-page .teach-settings, .leader-page .parent-dashboard, .leader-page .spec-data, .leader-page .parent-curriculm, .leader-page .parent-leaderboard, .leader-page .parent-payment, .leader-page .semester-section, .leader-page .parent-checkout
+  , .leader-page .parent-settings, .leader-page .school-dashboard, .leader-page .classes-content, .leader-page .new-class, .leader-page .teacher, .leader-page .students, .leader-page .payment
+  , .leader-page .school-settings, .leader-page .std-dashboard, .leader-page .std-curr, .leader-page .std-leader, .leader-page .myclass, .leader-page .profile, .leader-page .std-setting
+  , .leader-page .std-less, .leader-page .class-content, .leader-page .std-lesson, .leader-page .classroom, .leader-page .teacher-dash, .leader-page .payment-checkout, .leader-page .complete-checkout, .leader-page .teach-settings, .payment-page .parent-dashboard, .payment-page .spec-data, .payment-page .parent-curriculm, .payment-page .parent-leaderboard, .payment-page .parent-payment, .payment-page .semester-section, .payment-page .parent-checkout
+  , .payment-page .parent-settings, .payment-page .school-dashboard, .payment-page .classes-content, .payment-page .new-class, .payment-page .teacher, .payment-page .students, .payment-page .payment
+  , .payment-page .school-settings, .payment-page .std-dashboard, .payment-page .std-curr, .payment-page .std-leader, .payment-page .myclass, .payment-page .profile, .payment-page .std-setting
+  , .payment-page .std-less, .payment-page .class-content, .payment-page .std-lesson, .payment-page .classroom, .payment-page .teacher-dash, .payment-page .payment-checkout, .payment-page .complete-checkout, .payment-page .teach-settings, .school-dashboard-page
+  .parent-dashboard, .school-dashboard-page
+  .spec-data, .school-dashboard-page
+  .parent-curriculm, .school-dashboard-page
+  .parent-leaderboard, .school-dashboard-page
+  .parent-payment, .school-dashboard-page
+  .semester-section, .school-dashboard-page
+  .parent-checkout
+  , .school-dashboard-page
+  .parent-settings, .school-dashboard-page
+  .school-dashboard, .school-dashboard-page
+  .classes-content, .school-dashboard-page
+  .new-class, .school-dashboard-page
+  .teacher, .school-dashboard-page
+  .students, .school-dashboard-page
+  .payment
+  , .school-dashboard-page
+  .school-settings, .school-dashboard-page
+  .std-dashboard, .school-dashboard-page
+  .std-curr, .school-dashboard-page
+  .std-leader, .school-dashboard-page
+  .myclass, .school-dashboard-page
+  .profile, .school-dashboard-page
+  .std-setting
+  , .school-dashboard-page
+  .std-less, .school-dashboard-page
+  .class-content, .school-dashboard-page
+  .std-lesson, .school-dashboard-page
+  .classroom, .school-dashboard-page
+  .teacher-dash, .school-dashboard-page
+  .payment-checkout, .school-dashboard-page
+  .complete-checkout, .school-dashboard-page
+  .teach-settings, .school-classes-page .parent-dashboard, .school-classes-page .spec-data, .school-classes-page .parent-curriculm, .school-classes-page .parent-leaderboard, .school-classes-page .parent-payment, .school-classes-page .semester-section, .school-classes-page .parent-checkout
+  , .school-classes-page .parent-settings, .school-classes-page .school-dashboard, .school-classes-page .classes-content, .school-classes-page .new-class, .school-classes-page .teacher, .school-classes-page .students, .school-classes-page .payment
+  , .school-classes-page .school-settings, .school-classes-page .std-dashboard, .school-classes-page .std-curr, .school-classes-page .std-leader, .school-classes-page .myclass, .school-classes-page .profile, .school-classes-page .std-setting
+  , .school-classes-page .std-less, .school-classes-page .class-content, .school-classes-page .std-lesson, .school-classes-page .classroom, .school-classes-page .teacher-dash, .school-classes-page .payment-checkout, .school-classes-page .complete-checkout, .school-classes-page .teach-settings {
+    margin-right: 0; }
+  body .mob-search, .dashboard-page .mob-search, .curricilm-page .mob-search, .leader-page .mob-search, .payment-page .mob-search, .school-dashboard-page
+  .mob-search, .school-classes-page .mob-search {
+    margin-left: 0;
+    margin-right: 54px; }
+  body header nav.dash-nav .navright .noti-icon, .dashboard-page header nav.dash-nav .navright .noti-icon, .curricilm-page header nav.dash-nav .navright .noti-icon, .leader-page header nav.dash-nav .navright .noti-icon, .payment-page header nav.dash-nav .navright .noti-icon, .school-dashboard-page
+  header nav.dash-nav .navright .noti-icon, .school-classes-page header nav.dash-nav .navright .noti-icon {
+    margin-right: 0;
+    margin-left: 3rem; } }
+@media (max-width: 479.98px) {
+  body .nav-mob .inner {
+    left: 11%; }
+    body .nav-mob .inner .ux .mode {
+      margin-left: 0;
+      margin-right: 10px; }
+      body .nav-mob .inner .ux .mode a::after {
+        left: 36%; }
+  body .lesson .main-content .lesson-stud .header-lesson ul li {
+    margin-right: 5px; }
+  body .lesson .main-content .lesson-stud .header-lesson ul span {
+    margin-right: 0; }
+  body .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card {
+    width: 350px; }
+    body .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card span.exp {
+      right: auto;
+      left: 2%; }
+    body .lesson .main-content .lesson-stud .lesson-content .quiz .quiz-card .quiz-info {
+      margin-right: 1rem; }
+  body .lesson .main-content .lesson-stud .lesson-content .goal, body .lesson .main-content .lesson-stud .lesson-content .light {
+    margin-right: 15px; } }
+
+/*# sourceMappingURL=arabic.css.map */
