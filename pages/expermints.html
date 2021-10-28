@@ -1,0 +1,723 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link rel="stylesheet" href="../css/libs/flag-icon.min.css" />
+    <link rel="stylesheet" href="../css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+
+    <title>expermints</title>
+  </head>
+  <body>
+    <!---------------start  header -------------------->
+    <header>
+      <a href="expermints.html" class="exp-link">Expermints</a>
+      <form action="">
+        <i class="fas fa-search"></i>
+        <input type="search" placeholder="search" />
+      </form>
+      <div class="mo-brand">
+        <img src="../img/logo.png" alt="logo" />
+        <a href="../index.html">VLABY</a>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="about.html">about us</a></li>
+          <li class="sign-up"><a href="signUp.html">sign up</a></li>
+          <li class="login-btn"><a href="login.html">login</a></li>
+          <li class="nav-item lang">
+            <a href="#">
+              <i class="fas fa-globe-africa"></i>
+              <span class="lang">E</span>
+            </a>
+            <div class="drop-menu">
+              <ul class="list-group p-3">
+                <li class="lang-item list-group-item">
+                  <img src="../img/lang.png" alt="" />
+                  <span>english</span>
+                </li>
+                <li class="lang-item list-group-item">
+                  <img src="../img/lang.png" alt="" />
+                  <span>english</span>
+                </li>
+                <li class="lang-item list-group-item">
+                  <img src="../img/lang.png" alt="" />
+                  <span>english</span>
+                </li>
+                <li class="lang-item list-group-item">
+                  <img src="../img/lang.png" alt="" />
+                  <span>english</span>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="nav-item border p-1 mode mt-md-3">
+            <i class="fas fa-sun"></i>
+          </li>
+        </ul>
+      </nav>
+
+      <button class="nav-btn">
+        <i class="fas fa-align-justify fa-3x mobile-icon"></i>
+      </button>
+    </header>
+    <!---------------end  header -------------------->
+    <!--------------start navbar on mobile view----------->
+    <div class="nav-mob hidden">
+      <div class="inner">
+        <div class="btn-cont">
+          <a href="signUp.html" class="sign-up">sign up</a>
+          <a href="login.html">login</a>
+        </div>
+        <div class="ux">
+          <div class="lang">
+            <a href="#">
+              <i class="fas fa-globe-africa"></i>
+              <span class="lang">E</span>
+            </a>
+            <div class="drop-menu hidden">
+              <ul class="list-group p-3">
+                <li class="lang-item list-group-item">
+                  <img src="../img/lang.png" alt="" />
+                  <span>english</span>
+                </li>
+                <li class="lang-item list-group-item">
+                  <img src="../img/lang.png" alt="" />
+                  <span>english</span>
+                </li>
+                <li class="lang-item list-group-item">
+                  <img src="../img/lang.png" alt="" />
+                  <span>english</span>
+                </li>
+                <li class="lang-item list-group-item">
+                  <img src="../img/lang.png" alt="" />
+                  <span>english</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="mode">
+            <i class="fas fa-sun"></i>
+          </div>
+        </div>
+        <ul>
+          <li class="active"><a href="#">home</a></li>
+          <li><a href="about.html">about us</a></li>
+          <li><a href="expermints.html">expermints</a></li>
+        </ul>
+      </div>
+    </div>
+    <!--------------end navbar on mobile view----------->
+    <div class="container">
+      <div class="row">
+        <!----------startexpermints content -------------------->
+        <div class="expermints col-md-12">
+          <a href="../index.html" class="back">
+            <i class="fas fa-chevron-left"></i> back to home
+          </a>
+          <div class="container">
+            <div class="row">
+              <div class="col-md main-color mt-3 mb-3">
+                <h3>Browse Expermints</h3>
+              </div>
+            </div>
+            <div class="row">
+              <ul class="main-tabs">
+                <li class="active tab" data-class="free-mode">Free Mode</li>
+                <li class="tab" data-class="school-mode">School Mode</li>
+              </ul>
+            </div>
+            <!--  start free mode section-->
+            <div class="free-mode">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md">
+                    <div class="selection-form">
+                      <div class="row mt-3">
+                        <div class="col-md-3">
+                          <form action="">
+                            <select
+                              class="form-select"
+                              aria-label="Default select example"
+                            >
+                              <option selected>Open this select menu</option>
+                              <option value="1">One</option>
+                              <option value="2">Two</option>
+                              <option value="3">Three</option>
+                            </select>
+                          </form>
+                        </div>
+                        <div class="col-md-2">
+                          <input type="submit" class="main-btn" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row mt-md-4">
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row mt-md-4">
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row mt-md-4">
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row mt-md-4">
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="expermint-card">
+                      <img
+                        src="../img/lab.png"
+                        class="card-img-top"
+                        alt="..."
+                        loading="lazy"
+                      />
+                      <span>15 EXP</span>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a href="#">Light Expermint</a>
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- start comming soon popup -->
+                <div class="comming-soon-popup hidden">
+                  <div class="inner">
+                    <div class="content">
+                      <i class="fas fa-times"></i>
+                      <img
+                        src="../img/Group 977.png"
+                        alt=""
+                        class="img-fluid"
+                      />
+                      <p>
+                        We are at soft launching currently, you can browse
+                        curriculums and our experiments freely, Our main feature
+                        launching will be available soon
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="comming-soon-popup hidden">
+                  <div class="inner">
+                    <div class="content">
+                      <i class="fas fa-times"></i>
+                      <img
+                        src="../img/Group 974.png"
+                        alt=""
+                        class="img-fluid"
+                      />
+                      <p>
+                        We are at soft launching currently, you can browse
+                        curriculums and our experiments freely, Our main feature
+                        launching will be available soon
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- end comming soon popup -->
+              </div>
+            </div>
+            <!---end free mode ----->
+            <!----start school mode ---->
+            <div class="school-mode hidden">
+              <div class="container">
+                <div class="row">
+                  <div class="main-content col-md">
+                    <div class="curriculum">
+                      <div class="container">
+                        <form action="" class="curr-filter mt-md-3">
+                          <div class="opation">
+                            <label class="mb-2" for="">state</label>
+                            <select
+                              class="form-select"
+                              aria-label="Default select example"
+                            >
+                              <option selected>Egypt</option>
+                              <option value="1">egypt</option>
+                              <option value="2">egypt</option>
+                              <option value="3">egypt</option>
+                            </select>
+                          </div>
+                          <div class="opation">
+                            <label class="mb-2" for="">Educational Level</label>
+                            <select
+                              class="form-select"
+                              aria-label="Default select example"
+                            >
+                              <option selected>Elementary</option>
+                              <option value="1">One</option>
+                              <option value="2">Two</option>
+                              <option value="3">Three</option>
+                            </select>
+                          </div>
+                          <div class="opation">
+                            <label class="mb-2" for="">Grade</label>
+                            <select
+                              class="form-select"
+                              aria-label="Default select example"
+                            >
+                              <option selected>Third</option>
+                              <option value="1">One</option>
+                              <option value="2">Two</option>
+                              <option value="3">Three</option>
+                            </select>
+                          </div>
+                          <div class="opation">
+                            <label class="mb-2" for="">Semester</label>
+                            <select
+                              class="form-select"
+                              aria-label="Default select example"
+                            >
+                              <option selected>Second</option>
+                              <option value="1">One</option>
+                              <option value="2">Two</option>
+                              <option value="3">Three</option>
+                            </select>
+                          </div>
+                          <div class="opation">
+                            <label class="mb-2" for="">Subject</label>
+                            <select
+                              class="form-select"
+                              aria-label="Default select example"
+                            >
+                              <option selected>All</option>
+                              <option value="1">One</option>
+                              <option value="2">Two</option>
+                              <option value="3">Three</option>
+                            </select>
+                          </div>
+                          <button class="" type="submit">Apply</button>
+                        </form>
+                        <div class="accordion" id="accordionExample">
+                          <div class="accordion-item">
+                            <h2 class="accordion-header" id="unit1heading">
+                              <button
+                                class="accordion-button"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#unit1"
+                                aria-expanded="true"
+                                aria-controls="unit1"
+                              >
+                                unit 1
+                              </button>
+                            </h2>
+                            <div
+                              id="unit1"
+                              class="accordion-collapse collapse show"
+                              aria-labelledby="unit1heading"
+                              data-bs-parent="#accordionExample"
+                            >
+                              <div class="accordion-body d-flex">
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info d-flex">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info d-flex">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="accordion-item">
+                            <h2 class="accordion-header" id="unit2heading">
+                              <button
+                                class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#unit2"
+                                aria-expanded="false"
+                                aria-controls="unit2"
+                              >
+                                unit 2
+                              </button>
+                            </h2>
+                            <div
+                              id="unit2"
+                              class="accordion-collapse collapse"
+                              aria-labelledby="unit2heading"
+                              data-bs-parent="#accordionExample"
+                            >
+                              <div class="accordion-body d-flex">
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info d-flex">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info d-flex">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingsthree">
+                              <button
+                                class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapsthree"
+                                aria-expanded="false"
+                                aria-controls="collapsthree"
+                              >
+                                unit 3
+                              </button>
+                            </h2>
+                            <div
+                              id="collapsthree"
+                              class="accordion-collapse collapse"
+                              aria-labelledby="headingsthree"
+                              data-bs-parent="#accordionExample"
+                            >
+                              <div class="accordion-body d-flex">
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info d-flex">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info d-flex">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingsfour">
+                              <button
+                                class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#collapsfour"
+                                aria-expanded="false"
+                                aria-controls="collapsfour"
+                              >
+                                unit 4
+                              </button>
+                            </h2>
+                            <div
+                              id="collapsfour"
+                              class="accordion-collapse collapse"
+                              aria-labelledby="headingsfour"
+                              data-bs-parent="#accordionExample"
+                            >
+                              <div class="accordion-body d-flex">
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info d-flex">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                                <div class="accrr-exper me-2">
+                                  <img src="../img/accr-img.png" alt="" />
+                                  <div class="acr-info d-flex">
+                                    <p>light</p>
+                                    <span>first lesson</span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!----end school mode ---->
+          </div>
+        </div>
+        <!----------end expermints content -------------------->
+      </div>
+    </div>
+
+    <!----------start footer----------->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <img src="../img/logo.png" alt="" />
+            <h3>we're on</h3>
+            <ul class="d-flex">
+              <li><i class="fab fa-facebook-f"></i></li>
+              <li><i class="fab fa-youtube"></i></li>
+              <li><i class="fab fa-linkedin-in"></i></li>
+              <li><i class="fab fa-instagram"></i></li>
+              <li><i class="fab fa-twitter"></i></li>
+            </ul>
+          </div>
+          <div class="col-md-3">
+            <h3>contact us</h3>
+            <p>(+2) 01004894017</p>
+            <a href="#">Info@Vlaby.Com</a>
+          </div>
+          <div class="col-md-3">
+            <a href="#">
+              <h3>About Us</h3>
+            </a>
+            <a href="#">
+              <h3>blog</h3>
+            </a>
+            <a href="#">
+              <h3>our team</h3>
+            </a>
+            <a href="#">
+              <h3>help</h3>
+            </a>
+          </div>
+          <div class="col-md-3">
+            <a href="#">
+              <h3>FAQ</h3>
+            </a>
+            <a href="#">
+              <h3>Privacy Policies</h3>
+            </a>
+            <a href="#">
+              <h3>Rules and conditions</h3>
+            </a>
+            <a href="#">
+              <h3>help</h3>
+            </a>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!----------end footer----------->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/app.js"></script>
+    <script type="module">
+      import { changeTbas} from "../js/popup.js";
+      changeTbas("tab");
+    </script>
+  </body>
+</html>
